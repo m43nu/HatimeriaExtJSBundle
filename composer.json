@@ -1,0 +1,16 @@
+{
+    "name": "m43nu/hatimeria-extjs-bundle",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Emanuel Imhof",
+            "email": "imhof.emanuel@gmail.com",
+            "homepage": "http://m43nu.ch",
+            "role": "Developer"
+        }
+    ],
+   "autoload": {
+        "psr-0": { "Hatimeria\\ExtJSBundle": "" }
+    },
+    "target-dir": "Hatimeria/ExtJSBundle"
+}
